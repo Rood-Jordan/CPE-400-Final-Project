@@ -15,3 +15,8 @@ and laptops, desktops, workstations, and mobile devices connected onto wifi.
 This holds all the scripts and driver code for connecting to bluetooth devices connected to the device running this code.
 Also, can create a socket to connect to specified device as of now.  Using PyBluez library to connect and explore data being 
 communicated between an apple watch and a laptop (i.e., Macbook).
+
+The Main.py file is ran for bluetooth connection to find devices and establish a socket to them.
+
+The bash script file is what we used to generate the tshark data files for easier analysis with the information extracting from 
+our raw data wireshark captures using tshark commands.

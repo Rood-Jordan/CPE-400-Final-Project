@@ -1,0 +1,4 @@
+distlib==0.3.5
+filelock==3.7.1
+pipenv==2022.7.4
+PyBluez @ git+https://github.com/pybluez/pybluez.git@4d46ce14d9e888e3b0c65d5d3ba2a703f8e5e861
