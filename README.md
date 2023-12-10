@@ -8,7 +8,7 @@ is done through use of built-in functions.  This data can be output for observat
 
 This folder holds data collected thus far through use of wireshark.  Data as of now is experimental to ensure we get proper
 collection from intended devices.  Up to this point, we have collected network traffic transmitted between local Wifi router
-and laptops, desktops, workstations, and mobile devices connected onto wifi.
+and laptops, desktops, workstations, and mobile devices connected onto wifi.  The Iphone data directory contains data collected with iphone packets targeted.  The TvData directory is with our TV devices traffic in mind.  The tsharkAnalysis script has the devices specific ip so we could clean and conduct analysis only on that devices traffic.
 
 ## Source Code Directory
 
